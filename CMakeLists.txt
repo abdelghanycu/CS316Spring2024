@@ -14,4 +14,8 @@ add_executable(CS316 section5/main.cpp
         section7/writting_to_file.cpp
         section7/reading_from_file.cpp
         section7_g2/writting_to_file.cpp
-        section7_g2/reading_from_file.cpp)
+        section7_g2/reading_from_file.cpp
+        section6/Fig14_13.cpp
+        section8_g1/var_object.cpp
+        section8_g2/test_data.cpp
+)
