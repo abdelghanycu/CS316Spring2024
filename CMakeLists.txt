@@ -19,4 +19,5 @@ add_executable(CS316 section5/main.cpp
         section8_g1/var_object.cpp
         section8_g2/test_data.cpp
         quiz/quiz5.cpp
+        quiz/quiz3.cpp
 )
